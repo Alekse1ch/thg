@@ -1,0 +1,9 @@
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\bin\x64\Release\Com_Graph.exe.config
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\bin\x64\Release\Com_Graph.exe
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\bin\x64\Release\cbar.dll
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\x64\Release\Com_Graph.Form1.resources
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\x64\Release\Com_Graph.Properties.Resources.resources
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\x64\Release\Com_Graph.csproj.GenerateResource.cache
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\x64\Release\Com_Graph.csproj.CoreCompileInputs.cache
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\x64\Release\Com_Graph.csproj.CopyComplete
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\x64\Release\Com_Graph.exe

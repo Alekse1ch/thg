@@ -1,0 +1,12 @@
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\bin\Debug\Com_Graph.exe.config
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\bin\Debug\Com_Graph.exe
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\bin\Debug\Com_Graph.pdb
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\Debug\Com_Graph.csprojAssemblyReference.cache
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\Debug\Com_Graph.Form1.resources
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\Debug\Com_Graph.Properties.Resources.resources
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\Debug\Com_Graph.csproj.GenerateResource.cache
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\Debug\Com_Graph.csproj.CoreCompileInputs.cache
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\Debug\Com_Graph.exe
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\Debug\Com_Graph.pdb
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\obj\Debug\Com_Graph.csproj.CopyComplete
+C:\Users\BSysoiev\source\repos\Com_Graph\Com_Graph\bin\Debug\cbar.dll
